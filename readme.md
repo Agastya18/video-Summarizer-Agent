@@ -76,9 +76,7 @@ streamlit run app.py
 - Requires stable internet connection for API calls
 
 
-## License
 
-[Add your license information here]
 
 ## Acknowledgments
 
