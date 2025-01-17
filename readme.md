@@ -19,8 +19,8 @@ A powerful video analysis tool powered by Google's Gemini 2.0 Flash Exp that pro
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd phidata-video-summarizer
+git clone[ <repository-url>](https://github.com/Agastya18/video-Summarizer-Agent.git)
+cd video-Summarizer-Agent
 ```
 
 2. Install dependencies:
